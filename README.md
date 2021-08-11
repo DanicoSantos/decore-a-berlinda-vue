@@ -1,2 +1,19 @@
-# Decore a berlinda (VueJs)
-Um app para mostrar a porcentagem de arrecadação para o projeto de decoração da berlinda para o Círio de Nazaré
+# decore-a-berlinda-vue
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
